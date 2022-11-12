@@ -1,0 +1,11 @@
+Nuget Packagede girip 
+
+- Microsopft.EntityFramerkCore.SqlServer
+
+- Microsopft.EntityFramerkCore.Tools
+
+- Microsoft.AspNetCore.Identity
+
+- Microsoft.AspNetCore.Identity.EntityFrameworkCore
+
+- Microsoft.AspNetCore.Authentication.JwtBearer
